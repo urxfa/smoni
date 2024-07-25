@@ -1,0 +1,10 @@
+hackerone:
+  baseUrl: https://hackerone.com/teams/$PROGRAM$/assets/download_csv.csv
+  watch:
+    - dyson
+    - paypal
+    - netflix
+    - yoti
+    - hostinger
+ 
+  
